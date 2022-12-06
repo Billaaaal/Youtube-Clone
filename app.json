@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "CloneApp",
+    "slug": "CloneApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.billal78.CloneApp"
+    }
+  }
+}
